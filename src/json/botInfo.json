@@ -1,0 +1,43 @@
+{
+  "botname": "Helga-Bot",
+  "ownerNumber":6282138919347[
+    "YOUR NUMBER"
+  ],
+  "prefix": [
+    ".",
+    "!",
+    "#",
+    "_",
+    "/",
+    "+",
+    ","
+  ],
+  "ownername": "Helga Ilham`",
+  "unicode" : {
+  "head": "⬣",
+  "list": "⬡",
+  "body": "┃",
+  "upper": "┏",
+  "down": "┗",
+  "line": "━",
+  "needed": [ "<", ">" ],
+  "optional": [ "(", ")" ],
+  "wings": [ "𓆩 ", " 𓆪" ]
+},
+  "response": {
+    "owner": "Khusus Owner",
+    "admin": "Khusus Admin",
+    "group": "Khusus Group",
+    "wait": "Tunggu Sebentar...",
+    "private": "Khusus Private",
+    "notUrl": "Link Invalid",
+    "media": "Pesan Harus Media",
+    "mentioned": "Tag Orang Bang",
+    "quoted": "Tag Pesan Bang",
+    "_media": "Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
+    "Error": "Something error",
+    "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
+    "botAdmin": "Bot Nya Admin Dong"
+  },
+"session": null
+}
